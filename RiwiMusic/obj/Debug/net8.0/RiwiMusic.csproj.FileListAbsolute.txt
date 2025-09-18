@@ -1,0 +1,14 @@
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/bin/Debug/net8.0/RiwiMusic
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/bin/Debug/net8.0/RiwiMusic.deps.json
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/bin/Debug/net8.0/RiwiMusic.runtimeconfig.json
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/bin/Debug/net8.0/RiwiMusic.dll
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/bin/Debug/net8.0/RiwiMusic.pdb
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/obj/Debug/net8.0/RiwiMusic.GeneratedMSBuildEditorConfig.editorconfig
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/obj/Debug/net8.0/RiwiMusic.AssemblyInfoInputs.cache
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/obj/Debug/net8.0/RiwiMusic.AssemblyInfo.cs
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/obj/Debug/net8.0/RiwiMusic.csproj.CoreCompileInputs.cache
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/obj/Debug/net8.0/RiwiMusic.dll
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/obj/Debug/net8.0/refint/RiwiMusic.dll
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/obj/Debug/net8.0/RiwiMusic.pdb
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/obj/Debug/net8.0/RiwiMusic.genruntimeconfig.cache
+/home/cami/RiderProjects/RiwiMusic/RiwiMusic/obj/Debug/net8.0/ref/RiwiMusic.dll
